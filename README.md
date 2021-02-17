@@ -2,7 +2,7 @@
 
 In this kata you are learning ways to extend a system while changing the existing
 code as little as possible. The technique we will focus on is called Embellish and
-we will use the pattern Functor and Applicative from Functional Programing and
+we will use the pattern Functor from Functional Programing and
 Category Theory. We will not use Monads, even tough that is also something that
 is part of the Embellish technique
 
