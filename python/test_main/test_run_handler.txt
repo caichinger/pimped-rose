@@ -1,0 +1,101 @@
+name                   quality   sell in     price
+Master Shield                0        -1      0.00
+Master Shield               19        -1     10.00
+Master Shield               40        -1     20.00
+Master Sword                11        -1     30.00
+Master Sword                32        -1     40.00
+Master Club Card             3        -1     50.00
+Master Club Card            24        -1     60.00
+Master Club Card            45        -1     70.00
+Master Mask                 16        -1     80.00
+Master Mask                 37        -1     90.00
+Master of Mime               8        -1     99.00
+Master of Mime              29        -1     99.90
+Master of Stone              0        -1      0.00
+Master of Stone             21        -1     10.00
+Master of Stone             42        -1     20.00
+Oger Shield                 13        -1     30.00
+Oger Shield                 34        -1     40.00
+Oger Sword                   5        -1     50.00
+Oger Sword                  26        -1     60.00
+Oger Sword                  47        -1     70.00
+Oger Club Card              18        -1     80.00
+Oger Club Card              39        -1     90.00
+Oger Mask                   10        -1     99.00
+Oger Mask                   31        -1     99.90
+Oger of Mime                 2        -1      0.00
+Oger of Mime                23        -1     10.00
+Oger of Mime                44        -1     20.00
+Oger of Stone               15        -1     30.00
+Oger of Stone               36        -1     40.00
+Majors Shield                7        -1     50.00
+Majors Shield               28        -1     60.00
+Majors Sword                 0        -1     70.00
+Majors Sword                20        -1     80.00
+Majors Sword                41        -1     90.00
+Majors Club Card            12        -1     99.00
+Majors Club Card            33        -1     99.90
+Majors Mask                  4        -1      0.00
+Majors Mask                 25        -1     10.00
+Majors Mask                 46        -1     20.00
+Majors of Mime              17        -1     30.00
+Majors of Mime              38        -1     40.00
+Majors of Stone              9        -1     50.00
+Majors of Stone             30        -1     60.00
+Ocarina Shield               1        -1     70.00
+Ocarina Shield              22        -1     80.00
+Ocarina Shield              43        -1     90.00
+Ocarina Sword               14        -1     99.00
+Ocarina Sword               35        -1     99.90
+Ocarina Club Card            6        -1      0.00
+Ocarina Club Card           27        -1     10.00
+Ocarina Mask                 0        -1     20.00
+Ocarina Mask                19        -1     30.00
+Ocarina Mask                40        -1     40.00
+Ocarina of Mime             11        -1     50.00
+Ocarina of Mime             32        -1     60.00
+Ocarina of Stone             3        -1     70.00
+Ocarina of Stone            24        -1     80.00
+Ocarina of Stone            45        -1     90.00
+Sword Shield                16        -1     99.00
+Sword Shield                37        -1     99.90
+Sword Sword                  8        -1      0.00
+Sword Sword                 29        -1     10.00
+Sword Club Card              0        -1     20.00
+Sword Club Card             21        -1     30.00
+Sword Club Card             42        -1     40.00
+Sword Mask                  13        -1     50.00
+Sword Mask                  34        -1     60.00
+Sword of Mime                5        -1     70.00
+Sword of Mime               26        -1     80.00
+Sword of Mime               47        -1     90.00
+Sword of Stone              18        -1     99.00
+Sword of Stone              39        -1     99.90
+Textbook Shield             10        -1      0.00
+Textbook Shield             31        -1     10.00
+Textbook Sword               2        -1     20.00
+Textbook Sword              23        -1     30.00
+Textbook Sword              44        -1     40.00
+Textbook Club Card          15        -1     50.00
+Textbook Club Card          36        -1     60.00
+Textbook Mask                7        -1     70.00
+Textbook Mask               28        -1     80.00
+Textbook of Mime             0        -1     90.00
+Textbook of Mime            20        -1     99.00
+Textbook of Mime            41        -1     99.90
+Textbook of Stone           12        -1      0.00
+Textbook of Stone           33        -1     10.00
+Worn Shield                  4        -1     20.00
+Worn Shield                 25        -1     30.00
+Worn Shield                 46        -1     40.00
+Worn Sword                  17        -1     50.00
+Worn Sword                  38        -1     60.00
+Worn Club Card               9        -1     70.00
+Worn Club Card              30        -1     80.00
+Worn Mask                    1        -1     90.00
+Worn Mask                   22        -1     99.00
+Worn Mask                   43        -1     99.90
+Worn of Mime                14        -1      0.00
+Worn of Mime                35        -1     10.00
+Worn of Stone                6        -1     20.00
+Worn of Stone               27        -1     30.00

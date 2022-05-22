@@ -4,8 +4,8 @@ from datetime import datetime
 from database import Database
 
 
+# Note: This is called "template method pattern"
 class EventHandler(ABC):
-
     @abstractmethod
     def on_database_ready(self, time, database):
         pass
